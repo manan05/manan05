@@ -3,8 +3,7 @@
 ## 🚀 About Me
 🎓 I am Manan Arora, a **Software Development Engineer** currently pursuing a master's program at University of Texas at Arlington, Texas, USA.
 
-👨‍💻 I have worked with **Android App Development** and **Web Application Development**, currently expanding my knowledge in the field of **Data science and Analytics**. 
-
+👨‍💻 I have worked in technologies like **Android App Development** and **Web Application Development**.
 
 - 📫 How to reach me [mananaroraUTA@gmail.com](mailto:mananaroraUTA@gmail.com)
 
