@@ -25,3 +25,5 @@ flask, flutter, heroku, hadoop, MongoDB, windicss, vue, react,ts,tensorflow, swi
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manan05&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="manan05" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manan05&&count_private=true&?show_icons=true&locale=en&theme=tokyonight" alt="manan05" /></p>
+
+![](https://komarev.com/ghpvc/?username=manan05&color=green&style=for-the-badge&label=DEVS)
