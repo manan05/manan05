@@ -1,27 +1,46 @@
-<h1 align="center">Hi There!👋</h1>
+<h1 align="center">Hi there👋! Welcome to my GitHub profile</h1>
 
 ## 🚀 About Me
-🎓 I am Manan Arora, a **Software Development Engineer** currently pursuing a master's program at University of Texas at Arlington, Texas, USA.
+🎓 I am Manan Arora, a **Software Development Engineer** pursuing a Master of Science at the University of Texas at Arlington, focusing on Big Data Management, Cloud Computing, and Intelligent Systems.
 
-👨‍💻 I have worked in technologies like **Android App Development** and **Web Application Development**.
+👨‍💻 I have worked in technologies like **Web Development** , **Machine Learning** , and **Android App Development**.
 
-- 📫 How to reach me [mananaroraUTA@gmail.com](mailto:mananaroraUTA@gmail.com)
+- 📫 Reach out to me [@mananaroraUTA@gmail.com](mailto:mananaroraUTA@gmail.com)
 
-- 👨‍💻 You can learn more about me on [My Portfolio](https://manan05.github.io/)
+- 👨‍💻 You can learn more about me on [My Portfolio](https://www.mananarora.us/)
 
-</p>
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/manan05)
+
+<br/>
 
 ## 🛠️ Skills and Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,androidstudio,aws,bootstrap,c,cpp,css,django,docker,eclipse,firebase,gcp,git,github,html,idea,java,js,kotlin,kubernetes,linux,mysql,nodejs,ps,py,vscode" />
-  </a>
-</p>
 
-![Manan05's stats](https://github-readme-stats.vercel.app/api?username=MANAN05&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+### - Programming Languages
+![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=java,js,py,c,cpp,kotlin,ts,mysql,html,css,markdown)
 
-![Manan05's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MANAN05&theme=tokyonight&hide_border=false)
+### - Frameworks
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=spring,nodejs,expressjs,spark,django)
 
-![Manan05's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MANAN05&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+### - Databases
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,postgresql,cassandra,redis,mongodb,firebase)
+
+### - DevOps
+![DevOps](https://go-skill-icons.vercel.app/api/icons?i=jenkins,docker,kubernetes,aws,gcp,githubactions,githubpages,terraform)
+
+### - Tools
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,jira,gradle,maven,androidstudio,swagger)
+
+### - Frontend
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,redux,tailwindcss,jest,bootstrap)
+
+<br/>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANAN05&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Manan05's Top Languages" style="width: 30%; height: 200px; object-fit: cover;"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manan05&theme=github_dark" alt="Manan05's Profile Details" style="width: 60%; height: 200px; object-fit: cover;"/>
+</div>
+
 
 ![](https://komarev.com/ghpvc/?username=manan05&color=orange&style=for-the-badge&label=Tech+Bros)
+
+
