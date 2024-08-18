@@ -13,6 +13,10 @@
 
 <br/>
 
+![](https://komarev.com/ghpvc/?username=manan05&color=orange&style=for-the-badge&label=Views)
+
+<br/>
+
 ## 🛠️ Skills and Tools
 
 ### - Programming Languages
@@ -36,11 +40,13 @@
 <br/>
 
 <div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MANAN05&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Manan05's stats" style="width: 44%; height: 200px; object-fit: cover;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANAN05&theme=tokyonight&hide_border=false" alt="Manan05's Streak" style="width: 47%; height: 200px; object-fit: cover;"/>
+</div>
+
+<br/>
+
+<div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANAN05&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Manan05's Top Languages" style="width: 30%; height: 200px; object-fit: cover;"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manan05&theme=github_dark" alt="Manan05's Profile Details" style="width: 60%; height: 200px; object-fit: cover;"/>
 </div>
-
-
-![](https://komarev.com/ghpvc/?username=manan05&color=orange&style=for-the-badge&label=Tech+Bros)
-
-
